@@ -38,9 +38,9 @@
 <!--- Stats --->
 <h3 align="left">:bar_chart: My stats:</h3>
 
-![Sebatora's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api/top-langs?username=sebatora&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed)  
-![Sebatora's Gthub stats](https://github-readme-stats.vercel.app/api?username=sebatora&show_icons=true&theme=github_dark_dimmed)  
-![Sebatora's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebatora&theme=github_dark_dimmed)
+![Sebatora's G𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api/top-langs?username=sebatora&show_icons=true&locale=en&layout=compact&theme=holi&hide_border=true&border_radius=5&card_width=450)  
+![Github stats](https://github-readme-stats.vercel.app/api?username=sebatora&show_icons=true&theme=holi&hide_border=true&border_radius=5&card_width=450)  
+![GitHub Streak](https://streak-stats.demolab.com?user=sebatora&theme=holi-theme&hide_border=true&border_radius=5&card_width=450)
 
 <!--- horizontal divider(gradiant) --->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
