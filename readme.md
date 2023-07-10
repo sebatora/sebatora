@@ -20,7 +20,7 @@
 - :school: I am a `Full Stack Developer` at [Henry Bootcamp](https://www.soyhenry.com/).
 - :student: I’m currently learning `.NET`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1TiElcIJXrdAOWVrMgrImwQM_Or8KZXMZ/view?usp=sharing).
+- :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1TiElcIJXrdAOWVrMgrImwQM_Or8KZXMZ/view?usp=sharing).
 - :mailbox: Feel free to reach me out **sebastiana.toranzo@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sebatora/)
 - :zap: Fun facts: I love music and I play the guitar.
 
