@@ -8,7 +8,7 @@
 
 <!--- Snake --->
 <div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
@@ -17,10 +17,10 @@
 
 <br><br>
 
-- :school: I am a `Full Stack Developer` at [Henry Bootcamp](https://www.soyhenry.com/).
-- :student: I’m currently learning `.NET`.
+- :school: I am a `QA Analyst` at [Scale AI](https://scale.com/).
+- :student: I’m currently learning `Python`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1TiElcIJXrdAOWVrMgrImwQM_Or8KZXMZ/view?usp=sharing).
+- :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1O6ga61-YRQf9CkhHVzV9QoVLqbyvlFOr/view?usp=sharing).
 - :mailbox: Feel free to reach me out **sebastiana.toranzo@gmail.com** or connect with me on [LinkedIn](https://www.linkedin.com/in/sebatora/)
 - :zap: Fun facts: I love music and I play the guitar.
 
