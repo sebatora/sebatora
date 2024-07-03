@@ -17,7 +17,7 @@
 
 <br><br>
 
-- :school: I am a `QA Analyst` at [Scale AI](https://scale.com/).
+- :school: I am a `QA Analyst` at [Scale AI](https://scale.com/){:target="_blank"}.
 - :student: I’m currently learning `Python`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1O6ga61-YRQf9CkhHVzV9QoVLqbyvlFOr/view?usp=sharing).
